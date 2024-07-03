@@ -1,1 +1,17 @@
-{"BIDSVersion":"1.0.0","Name":"Neural Bases of Psychological Reactance: An fMRI Study on Assertive and Non-assertive Health Communication","Authors":["Hern\u00e1ndez-Vergara, Nuria","Ozer, Ismet","Casado-Aranda, Luis-Alberto","S\u00e1nchez-Fern\u00e1ndez, Juan"],"Funding":["Spanish Minister of Consumption (SUBV23/00008)","Consejer\u00eda de Universidad, Investigaci\u00f3n e Innovaci\u00f3n de la Junta de Andaluc\u00eda (P21_00007)"],"Missing":"Participants 5 and 21 did not complete the scanning procedure"}
+{
+    "BIDSVersion": "1.0.0",
+    "Name": "Neural Bases of Psychological Reactance: An fMRI Study on Assertive and Non-assertive Health Communication",
+    "Authors": [
+        "Hernández-Vergara, Nuria",
+        "Ozer, Ismet",
+        "Casado-Aranda, Luis-Alberto",
+        "Sánchez-Fernández, Juan"
+    ],
+    "Funding": [
+        "Spanish Minister of Consumption (SUBV23/00008)",
+        "Consejería de Universidad, Investigación e Innovación de la Junta de Andalucía (P21_00007)"
+    ],
+    "Missing": "Participants 5 and 21 did not complete the scanning procedure",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005304.v1.0.0",
+    "License": "CC0"
+}
